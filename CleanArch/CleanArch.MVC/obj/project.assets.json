@@ -214,7 +214,7 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
         },
         "build": {
-          "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props": {}
+          "build/netcoreapp3.0/_._": {}
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/5.0.7": {
@@ -1680,7 +1680,12 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "CleanArch.Domain": "1.0.0"
+          "CleanArch.Domain": "1.0.0",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.7",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.7",
+          "Microsoft.AspNetCore.Identity.UI": "5.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.7",
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.7"
         },
         "compile": {
           "bin/placeholder/CleanArch.Infra.Data.dll": {}
@@ -6205,12 +6210,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "CleanArch.Infra.Data >= 1.0.0",
-      "CleanArch.Infra.IoC >= 1.0.0",
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.7",
-      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.7",
-      "Microsoft.AspNetCore.Identity.UI >= 5.0.7",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.7",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.7"
+      "CleanArch.Infra.IoC >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6263,28 +6263,6 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[5.0.7, )"
-          },
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[5.0.7, )"
-          },
-          "Microsoft.AspNetCore.Identity.UI": {
-            "target": "Package",
-            "version": "[5.0.7, )"
-          },
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[5.0.7, )"
-          },
-          "Microsoft.EntityFrameworkCore.Tools": {
-            "target": "Package",
-            "version": "[5.0.7, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
