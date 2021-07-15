@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hbRPGxWGvo4Q00fU3rPv8l7T+MBRgR25CODYDOw5mW8F1jmIhTVtKwLBy2H1K5l/Wi3E8V9KmY+KthT+2gLwNw==",
+  "dgSpecHash": "uiKATj1279ZXY9w5ffv9cCKK1hBpkuekmKSG9HkgZXj3iUTnCzjk7UquWUyG0+KY3ACcrU65yLaXOQwTQPmcvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Documents\\myProjects\\Clean-Architecture-dotNet\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
   "expectedPackageFiles": [
