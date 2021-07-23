@@ -21,6 +21,7 @@ namespace CleanArch.Application.ViewModels
 
         [Required(ErrorMessage = "The Price is Required")]
         [Range(1, 99999.99)]
+        [DisplayFormat(DataFormatString = "{0:C2}")]
         [DisplayName("Price")]
         public string Price { get; set; }
 

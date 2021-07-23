@@ -4,6 +4,10 @@
     <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>aspnet-CleanArch.MVC-5CB9F330-C559-406D-AF3C-3FBFB9EFCC27</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
   
   <ItemGroup>
     <ProjectReference Include="..\CleanArch.Infra.Data\CleanArch.Infra.Data.csproj" />

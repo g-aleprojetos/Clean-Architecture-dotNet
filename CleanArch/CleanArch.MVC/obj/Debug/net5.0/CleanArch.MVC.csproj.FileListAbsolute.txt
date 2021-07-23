@@ -97,3 +97,7 @@ C:\Users\DELL\Documents\myProjects\Clean-Architecture-dotNet\CleanArch\CleanArch
 C:\Users\DELL\Documents\myProjects\Clean-Architecture-dotNet\CleanArch\CleanArch.MVC\obj\Debug\net5.0\ref\CleanArch.MVC.dll
 C:\Users\DELL\Documents\myProjects\Clean-Architecture-dotNet\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.pdb
 C:\Users\DELL\Documents\myProjects\Clean-Architecture-dotNet\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.genruntimeconfig.cache
+C:\Users\DELL\Documents\myProjects\Clean-Architecture-dotNet\CleanArch\CleanArch.MVC\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\DELL\Documents\myProjects\Clean-Architecture-dotNet\CleanArch\CleanArch.MVC\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DELL\Documents\myProjects\Clean-Architecture-dotNet\CleanArch\CleanArch.MVC\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\DELL\Documents\myProjects\Clean-Architecture-dotNet\CleanArch\CleanArch.MVC\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
