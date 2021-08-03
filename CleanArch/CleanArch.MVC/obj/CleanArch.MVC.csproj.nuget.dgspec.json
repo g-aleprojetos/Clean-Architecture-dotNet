@@ -314,9 +314,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Documents\\myProjects\\Clean-Architecture-dotNet\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Documents\\myProjects\\Clean-Architecture-dotNet\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
-              },
               "C:\\Users\\DELL\\Documents\\myProjects\\Clean-Architecture-dotNet\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
                 "projectPath": "C:\\Users\\DELL\\Documents\\myProjects\\Clean-Architecture-dotNet\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
               }
